@@ -1,3 +1,5 @@
+![war-card-game](https://github.com/user-attachments/assets/332953ec-2ac0-433f-88ad-5f7d3f3d2076)
+
 # War Card Game
 
 A Python implementation of the classic card game "War" where two players compete by playing cards from their hands until one player collects all the cards.
